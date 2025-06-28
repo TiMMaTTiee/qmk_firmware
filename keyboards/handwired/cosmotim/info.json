@@ -1,6 +1,6 @@
 {
-    "manufacturer": "Pegamento",
-    "keyboard_name": "Cosmotim Split",
+    "manufacturer": "Tim",
+    "keyboard_name": "Cosmotim",
     "maintainer": "tim.treurniet",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
