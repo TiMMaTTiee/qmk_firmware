@@ -1,0 +1,8 @@
+{
+    "manufacturer": "Pegamento",
+    "keyboard_name": "Cosmotim Split",
+    "maintainer": "tim.treurniet",
+    "bootloader": "rp2040",
+    "processor": "RP2040",
+    "url": "https://github.com/TimMaTTiee/qmk_firmware/tree/master/keyboards/handwired/cosmotim"
+}
